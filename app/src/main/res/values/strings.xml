@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab2BMICal</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (m)</string>
+    <string name="Calculate">Calculate</string>
+    <string name="image">Image</string>
+    <string name="close">Close</string>
+    <string name="value">BMIValue</string>
+</resources>
